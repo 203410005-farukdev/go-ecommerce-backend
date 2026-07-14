@@ -1,0 +1,6 @@
+
+.env
+.env.*
+storage/logs/
+storage/uploads/
+*.exe
